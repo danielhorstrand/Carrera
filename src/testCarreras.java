@@ -19,8 +19,6 @@ public class testCarreras {
 		Atleta atleta7 = new Atleta(atletas[6], 1984);
 		Atleta atleta8 = new Atleta(atletas[7], 1989);
 		
-		
-
 	}
 
 }
